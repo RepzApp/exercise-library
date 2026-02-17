@@ -1,0 +1,3 @@
+{ id: 'ex1', name: 'Cable Crunch', image: '../../../exercises images/cable crunch.PNG', isSingleSide: false, numSets: 3 },
+{ id: 'ex2', name: 'Side Abs', image: '../../../exercises images/side abs.PNG', isSingleSide: true, numSets: 3 },
+{ id: 'ex3', name: 'Abs Crunch', image: '../../../exercises images/abs crunch.PNG', isSingleSide: false, numSets: 3 }
