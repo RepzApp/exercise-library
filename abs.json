@@ -18,7 +18,7 @@
       "id": "Abs Crunch",
       "name": "Rear Delt Row Wide Grip",
       "image": "../../../exercises images/abs crunch.PNG",
-      "isSingleSide": false,
+      "isSingleSide": true,
       "numSets": 10
     }
   ]
