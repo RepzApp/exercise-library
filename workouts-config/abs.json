@@ -1,1 +1,22 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Cable Crunch تمرين الكرنش بالكابل",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677467999_Cable_Crunch_تمرين_الكرنش_بالكابل.PNG",
+      "video": "",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": "notes notes"
+    },
+    {
+      "id": "ex2",
+      "name": "Single Side Cable Crunch كرانش فردى جانبى على الكابل",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677586487_Single_Side_Cable_Crunch_كرانش_فردى_جانبى_على_الكابل.webp",
+      "video": "",
+      "isSingleSide": true,
+      "numSets": 3,
+      "exNotes": "كرانش فردى"
+    }
+  ]
+}
