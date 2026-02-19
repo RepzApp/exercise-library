@@ -1,1 +1,13 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Dumbbell RDL (Romanian deadlift)  دامبل رومانيان ديد ليفت",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677393791_Dumbbell_RDL_(Romanian_deadlift)_دامبل_رومانيان_ديد_ليفت.PNG",
+      "video": "",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    }
+  ]
+}
