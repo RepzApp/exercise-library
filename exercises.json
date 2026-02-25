@@ -5666,5 +5666,14 @@
     "updatedAt": "2026-02-07T11:12:46.705Z",
     "createdAt": "2026-02-07T11:12:46.705Z",
     "muscle": "Posterior Chain"
+  },
+  {
+    "id": 1772043021047,
+    "title": "test mucle",
+    "image": "https://repzcomponents.netlify.app/ex%20config/images/lat%20pull%20down.png/",
+    "video": "",
+    "muscle": "chest lower back",
+    "updatedAt": "2026-02-25T18:10:21.563Z",
+    "createdAt": "2026-02-25T18:10:21.563Z"
   }
 ]
