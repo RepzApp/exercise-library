@@ -1,1 +1,58 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Cable Y-raise",
+      "image": "https://weighttraining.guide/wp-content/uploads/2021/06/Cable-Y-raise.png",
+      "video": "https://youtu.be/UB9uN3RDA5M",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "Leg extension جهاز رجل أمامى",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/05/lever-leg-extension-resized.png",
+      "video": "https://youtu.be/KO0-I-JAi8Q",
+      "isSingleSide": false,
+      "numSets": 4,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "Standing Calves سمانة واقف على الجهاز",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677426607_Standing_Calves_سمانة_واقف_على_الجهاز.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/calves.mp4",
+      "isSingleSide": false,
+      "numSets": 4,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Incline leg press",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/05/Sled-45-degree-Leg-Press-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/leg-press.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex5",
+      "name": "Seated /Lying leg curl",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/seated-leg-curl-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/seated-hamstering.mp4",
+      "isSingleSide": false,
+      "numSets": 4,
+      "exNotes": ""
+    },
+    {
+      "id": "ex6",
+      "name": "Barbell Romanian deadlift",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Romanian-Deadlift.png",
+      "video": "https://youtu.be/2SHsk9AzdjA",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    }
+  ]
+}
