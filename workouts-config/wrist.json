@@ -1,1 +1,22 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Barbell reverse curl",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Reverse-Curl-resized.png",
+      "video": "https://youtu.be/nRgxYX2Ve9w",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "Dumbbell wrist curl over bench",
+      "image": "https://weighttraining.guide/wp-content/uploads/2022/04/Dumbbell-wrist-curl-over-bench-1.png",
+      "video": "https://youtu.be/O5wVOSnyV7M",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    }
+  ]
+}
