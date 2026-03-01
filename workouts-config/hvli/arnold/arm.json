@@ -1,1 +1,76 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Machine Shoulder Press  جهاز كتف أمامى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678536079_Machine_Shoulder_Press_جهاز_كتف_أمامى.jpg",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-shoulder-press.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "TriCep Rope Push Down حبل تراى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678560479_TriCep_Rope_Push_Down_حبل_تراى.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/tri-pushdown.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "Machine Preacher Curl جهاز حصان باى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680330255_Machine_Preacher_Curl_جهاز_حصان_باى.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-preacher-curl.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Seated dumbbell lateral raise رفرفة جانبى جالس",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/Seated-Dumbbell-Lateral-Raise-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/seated-lateral-raises.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex5",
+      "name": "overhead  triceps extension",
+      "image": "https://weighttraining.guide/wp-content/uploads/2017/06/ez-bar-overhead-triceps-extension.jpg",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/over-head.mp4",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex6",
+      "name": "Incline dumbbell curl",
+      "image": "https://weighttraining.guide/wp-content/uploads/2017/01/Incline-Dumbbell-Curl-resized.png",
+      "video": "https://www.youtube.com/shorts/A8RyF2x4SSA?feature=share",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex7",
+      "name": "Cable/Barbell reverse curl",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Reverse-Curl-resized.png",
+      "video": "https://youtu.be/nRgxYX2Ve9w",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex8",
+      "name": "Seated dumbbell wrist curl",
+      "image": "https://weighttraining.guide/wp-content/uploads/2017/06/seated-dumbbell-wrist-curl-resized.png",
+      "video": "https://youtu.be/PtMI1f099lM",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    }
+  ]
+}
