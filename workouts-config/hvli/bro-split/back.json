@@ -1,1 +1,13 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "lats pull down سحب عالى واسع",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254330422_lats_pull_down_سحب_عالى_واسع.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/lat%20pull%20down.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    }
+  ]
+}
