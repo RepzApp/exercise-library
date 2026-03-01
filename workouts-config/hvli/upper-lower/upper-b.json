@@ -1,1 +1,76 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Chest Fly فراشة",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/Machine-Fly-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/chest-fly.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "Machine Shoulder Press  جهاز كتف أمامى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678536079_Machine_Shoulder_Press_جهاز_كتف_أمامى.jpg",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-shoulder-press.mp4",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "TriCep Rope Push Down حبل تراى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678560479_TriCep_Rope_Push_Down_حبل_تراى.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/tri-pushdown.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Machine Preacher Curl جهاز حصان باى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680330255_Machine_Preacher_Curl_جهاز_حصان_باى.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-preacher-curl.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex5",
+      "name": "Seated dumbbell lateral raise",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/Seated-Dumbbell-Lateral-Raise-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/seated-lateral-raises.mp4",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex6",
+      "name": "lats pull down سحب عالى واسع",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254330422_lats_pull_down_سحب_عالى_واسع.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/lat%20pull%20down.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex7",
+      "name": "Incline dumbbell chest press دامبل بنش عالى",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/11/incline-dumbbell-bench-press-resized.png",
+      "video": "https://youtu.be/Ji5na0ZR124",
+      "isSingleSide": false,
+      "numSets": 1,
+      "exNotes": ""
+    },
+    {
+      "id": "ex8",
+      "name": "T-bar row",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/lever-t-bar-row-plate-loaded-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/t-bar.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    }
+  ]
+}
