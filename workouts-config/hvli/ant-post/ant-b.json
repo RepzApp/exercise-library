@@ -1,1 +1,67 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Chest Fly / Pec Deck فراشة",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/Machine-Fly-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/chest-fly.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "Machine Shoulder Press  جهاز كتف أمامى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678536079_Machine_Shoulder_Press_جهاز_كتف_أمامى.jpg",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-shoulder-press.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "TriCep Rope Push Down حبل تراى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678560479_TriCep_Rope_Push_Down_حبل_تراى.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/tri-pushdown.mp4",
+      "isSingleSide": false,
+      "numSets": 4,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Leg extension جهاز رجل أمامى",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/05/lever-leg-extension-resized.png",
+      "video": "https://youtu.be/KO0-I-JAi8Q",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex5",
+      "name": "Seated dumbbell lateral raise",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/Seated-Dumbbell-Lateral-Raise-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/seated-lateral-raises.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex6",
+      "name": "Incline dumbbell chest press دامبل بنش عالى",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/11/incline-dumbbell-bench-press-resized.png",
+      "video": "https://youtu.be/Ji5na0ZR124",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex7",
+      "name": "Incline leg press جهاز دفع رجل",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/05/Sled-45-degree-Leg-Press-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/leg-press.mp4",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    }
+  ]
+}
