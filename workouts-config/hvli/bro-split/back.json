@@ -35,6 +35,15 @@
       "isSingleSide": false,
       "numSets": 3,
       "exNotes": ""
+    },
+    {
+      "id": "ex5",
+      "name": "Cable rear drive",
+      "image": "https://weighttraining.guide/wp-content/uploads/2017/07/Cable-Rear-Drive-resized.png",
+      "video": "https://youtu.be/Uz81XugWbG0",
+      "isSingleSide": true,
+      "numSets": 3,
+      "exNotes": ""
     }
   ]
 }
