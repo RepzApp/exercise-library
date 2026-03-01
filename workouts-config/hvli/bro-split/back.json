@@ -8,6 +8,33 @@
       "isSingleSide": false,
       "numSets": 3,
       "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "Single Arm Lat Row",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680052087_illiac_Lat_Pull_Down_Single_Arm_سحب_عالى_فردى_مجنص.jpg",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/iliac-lats.mp4",
+      "isSingleSide": true,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "T-bar row",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/lever-t-bar-row-plate-loaded-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/t-bar.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Hyperextension قطانية",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/45-degree-hyperextension.png",
+      "video": "https://youtu.be/3xc9k8k6ZxY",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
     }
   ]
 }
