@@ -1,1 +1,58 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Chest Fly فراشة",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/Machine-Fly-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/chest-fly.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "lats pull down سحب عالى واسع",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254330422_lats_pull_down_سحب_عالى_واسع.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/lat%20pull%20down.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "Standing high to low cable fly",
+      "image": "https://weighttraining.guide/wp-content/uploads/2022/12/Standing-high-to-low-cable-fly.png",
+      "video": "https://youtu.be/KwvJEXts2lg",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Single Arm Lat Row",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680052087_illiac_Lat_Pull_Down_Single_Arm_سحب_عالى_فردى_مجنص.jpg",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/iliac-lats.mp4",
+      "isSingleSide": true,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex5",
+      "name": "T-bar row",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/lever-t-bar-row-plate-loaded-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/t-bar.mp4",
+      "isSingleSide": false,
+      "numSets": 4,
+      "exNotes": ""
+    },
+    {
+      "id": "ex6",
+      "name": "incline dumbbell chest press دامبل بنش عالى",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/11/incline-dumbbell-bench-press-resized.png",
+      "video": "https://youtu.be/Ji5na0ZR124",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    }
+  ]
+}
