@@ -1,1 +1,58 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "lats pull down سحب عالى واسع",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1764254330422_lats_pull_down_سحب_عالى_واسع.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/lat%20pull%20down.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "Machine Preacher Curl جهاز حصان باى",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766680330255_Machine_Preacher_Curl_جهاز_حصان_باى.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-preacher-curl.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "T-bar row",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/lever-t-bar-row-plate-loaded-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/t-bar.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Standing Calves سمانة واقف على الجهاز",
+      "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766677426607_Standing_Calves_سمانة_واقف_على_الجهاز.PNG",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/calves.mp4",
+      "isSingleSide": false,
+      "numSets": 4,
+      "exNotes": ""
+    },
+    {
+      "id": "ex5",
+      "name": "Seated/Lying leg curl خلفيات قاعد",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/seated-leg-curl-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/seated-hamstering.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": "Seated preferred يفضل قاعد"
+    },
+    {
+      "id": "ex6",
+      "name": "Barbell Romanian deadlift  رومانيان ديد ليفت",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Romanian-Deadlift.png",
+      "video": "https://youtu.be/2SHsk9AzdjA",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    }
+  ]
+}
