@@ -1,1 +1,40 @@
-[]
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Machine chest press",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/machine-chest-press-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-chest-press.mp4",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex2",
+      "name": "Standing cable fly",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/05/cable-cross-over-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/cable%20fly.mp4",
+      "isSingleSide": false,
+      "numSets": 3,
+      "exNotes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "Incline dumbbell bench press",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/11/incline-dumbbell-bench-press-resized.png",
+      "video": "https://youtu.be/Ji5na0ZR124",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    },
+    {
+      "id": "ex4",
+      "name": "Standing high to low cable fly(lower chest)",
+      "image": "https://weighttraining.guide/wp-content/uploads/2022/12/Standing-high-to-low-cable-fly.png",
+      "video": "https://youtu.be/KwvJEXts2lg",
+      "isSingleSide": false,
+      "numSets": 2,
+      "exNotes": ""
+    }
+  ]
+}
