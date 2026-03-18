@@ -11,7 +11,7 @@
     },
     {
       "id": "ex2",
-      "name": "TriCep Rope Push Down حبل تراى",
+      "name": "TriCep Push Down",
       "image": "https://raw.githubusercontent.com/RepzApp/exercise-library/main/images/1766678560479_TriCep_Rope_Push_Down_حبل_تراى.png",
       "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/tri-pushdown.mp4",
       "isSingleSide": false,
