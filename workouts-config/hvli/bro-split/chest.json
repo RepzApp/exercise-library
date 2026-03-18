@@ -2,9 +2,9 @@
   "exercises": [
     {
       "id": "ex1",
-      "name": "Barbell Chest press",
-      "image": "https://weighttraining.guide/wp-content/uploads/2016/05/Barbell-Bench-Press-resized.png",
-      "video": "https://youtu.be/gRVjAtPip0Y",
+      "name": "Machine chest press",
+      "image": "https://weighttraining.guide/wp-content/uploads/2016/12/machine-chest-press-resized.png",
+      "video": "https://repzcomponents.netlify.app/ex%20config/videos/MH/machine-chest-press.mp4",
       "isSingleSide": false,
       "numSets": 4,
       "exNotes": ""
